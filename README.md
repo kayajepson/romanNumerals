@@ -19,8 +19,6 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
 | The program takes a number input from the user. | 6 | 6 |
-| The program returns error to non-numerical characters | k | “Not a number” |
-| The program returns error to non-integers. | 7.7 | “Not an integer” |
 | The program converts the number to Roman symbols. | 2 | II |
 
 
